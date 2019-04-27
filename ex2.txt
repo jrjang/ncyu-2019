@@ -1,8 +1,8 @@
-int ex2() {
+int ex2()  {
 	/*
 	 * test
 	 * test
-	 * test
+	 * tst
 	 * test
 	 */
 
@@ -13,7 +13,7 @@ int ex2(int i) {
 	/*
 	 * test
 	 * test
-	 * test
+	 * txt
 	 * test
 	 */
 
