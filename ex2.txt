@@ -1,0 +1,23 @@
+int ex2() {
+	/*
+	 * test
+	 * test
+	 * test
+	 * tst
+	 * test
+	 */
+
+	return 0;
+}
+
+int ex2(int i) {
+	/*
+	 * test
+	 * test
+	 * test
+	 * txt
+	 * test
+	 */
+
+	return 0;
+}

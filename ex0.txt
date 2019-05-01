@@ -1,3 +1,4 @@
 # Git user.name,Git Email,Chinese name
 # Example:
 # 123456,example@csie.ncyu.edu.tw,範◯例
+1042997,s1042997@mail.ncyu.edu.tw,毛◯銓
